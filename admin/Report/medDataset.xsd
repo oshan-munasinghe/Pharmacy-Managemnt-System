@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="medDataReport" targetNamespace="http://tempuri.org/medDataReport.xsd" xmlns:mstns="http://tempuri.org/medDataReport.xsd" xmlns="http://tempuri.org/medDataReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Pharmacy_mgmt_system_DBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Pharmacy_mgmt_system_DBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.admin.Properties.Settings.GlobalReference.Default.Pharmacy_mgmt_system_DBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="medDataReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="medDataReport" msprop:Generator_UserDSName="medDataReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="medicine" msprop:Generator_TableClassName="medicineDataTable" msprop:Generator_TableVarName="tablemedicine" msprop:Generator_TablePropName="medicine" msprop:Generator_RowDeletingName="medicineRowDeleting" msprop:Generator_RowChangingName="medicineRowChanging" msprop:Generator_RowEvHandlerName="medicineRowChangeEventHandler" msprop:Generator_RowDeletedName="medicineRowDeleted" msprop:Generator_UserTableName="medicine" msprop:Generator_RowChangedName="medicineRowChanged" msprop:Generator_RowEvArgName="medicineRowChangeEvent" msprop:Generator_RowClassName="medicineRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="medicine_id" msprop:Generator_ColumnVarNameInTable="columnmedicine_id" msprop:Generator_ColumnPropNameInRow="medicine_id" msprop:Generator_ColumnPropNameInTable="medicine_idColumn" msprop:Generator_UserColumnName="medicine_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="medicine_name" msprop:Generator_ColumnVarNameInTable="columnmedicine_name" msprop:Generator_ColumnPropNameInRow="medicine_name" msprop:Generator_ColumnPropNameInTable="medicine_nameColumn" msprop:Generator_UserColumnName="medicine_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="supplier_id" msprop:Generator_ColumnVarNameInTable="columnsupplier_id" msprop:Generator_ColumnPropNameInRow="supplier_id" msprop:Generator_ColumnPropNameInTable="supplier_idColumn" msprop:Generator_UserColumnName="supplier_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="mf_date" msprop:Generator_ColumnVarNameInTable="columnmf_date" msprop:Generator_ColumnPropNameInRow="mf_date" msprop:Generator_ColumnPropNameInTable="mf_dateColumn" msprop:Generator_UserColumnName="mf_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="exp_date" msprop:Generator_ColumnVarNameInTable="columnexp_date" msprop:Generator_ColumnPropNameInRow="exp_date" msprop:Generator_ColumnPropNameInTable="exp_dateColumn" msprop:Generator_UserColumnName="exp_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="unit_price" msprop:Generator_ColumnVarNameInTable="columnunit_price" msprop:Generator_ColumnPropNameInRow="unit_price" msprop:Generator_ColumnPropNameInTable="unit_priceColumn" msprop:Generator_UserColumnName="unit_price" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="med_quantity" msprop:Generator_ColumnVarNameInTable="columnmed_quantity" msprop:Generator_ColumnPropNameInRow="med_quantity" msprop:Generator_ColumnPropNameInTable="med_quantityColumn" msprop:Generator_UserColumnName="med_quantity" type="xs:int" minOccurs="0" />
+              <xs:element name="category" msprop:Generator_ColumnVarNameInTable="columncategory" msprop:Generator_ColumnPropNameInRow="category" msprop:Generator_ColumnPropNameInTable="categoryColumn" msprop:Generator_UserColumnName="category" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:medicine" />
+      <xs:field xpath="mstns:medicine_id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

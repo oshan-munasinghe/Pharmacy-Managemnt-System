@@ -1,0 +1,262 @@
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\bin\Debug\admin.exe
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\bin\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Form1.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.adminProfile.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.InventoryManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.medicineManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.viewSale.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.costManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.SuplierManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\bin\Debug\admin.application
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.application
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\app03.cashier.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+D:\SQl BK\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.manifest
+D:\SQl BK\Pharmacy Mgmt System\admin\bin\Debug\admin.application
+D:\SQl BK\Pharmacy Mgmt System\admin\bin\Debug\admin.exe
+D:\SQl BK\Pharmacy Mgmt System\admin\bin\Debug\admin.pdb
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.Form1.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.adminProfile.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\app03.cashier.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.LoginForm.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.Properties.Resources.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.costManagement.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.InventoryManagement.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.medicineManagement.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.SuplierManagement.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.viewSale.resources
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.exe.manifest
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.application
+D:\SQl BK\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.user_management.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.manifest
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\bin\Debug\admin.application
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\bin\Debug\admin.exe
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\bin\Debug\admin.pdb
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.Form1.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.adminProfile.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\app03.cashier.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.LoginForm.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.Properties.Resources.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.costManagement.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.InventoryManagement.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.medicineManagement.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.SuplierManagement.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.user_management.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.viewSale.resources
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.exe.manifest
+D:\SQl BK\BC1\Pharmacy Mgmt System\admin\obj\Debug\admin.application
+D:\SQl BK\2021-07-27\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+D:\SQl BK\2021-07-27\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+D:\SQl BK\2021-07-27\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.user_management.resources
+D:\SQl BK\2021-07-27\1\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+D:\SQl BK\2021-07-27\1\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+D:\SQl BK\2021-07-27\1\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\bin\Debug\admin.application
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\bin\Debug\admin.exe
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\bin\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Form1.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.adminProfile.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\app03.cashier.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.costManagement.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.InventoryManagement.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.medicineManagement.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.SuplierManagement.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.user_management.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.viewSale.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.application
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Pharmasist.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Store_keeper.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddNewCost.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddcostCat.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.Sale.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.token.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Sale_ext.token.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.token_sh.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.medGenReport.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.cache
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.compiled
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddSuplier.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.UserReport.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddcostCat.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddNewCost.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddSuplier.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.token_sh.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Pharmasist.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.medGenReport.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.UserReport.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Sale_ext.token.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.Store_keeper.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.Sale.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.token.resources
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.cache
+C:\Users\Oshan\Desktop\Crash Point\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.compiled
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\bin\Debug\admin.application
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\bin\Debug\admin.exe
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\bin\Debug\admin.pdb
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddcostCat.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddNewCost.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddSuplier.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.token_sh.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Form1.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.adminProfile.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\app03.cashier.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Pharmasist.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.medGenReport.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.UserReport.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Sale_ext.token.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.Store_keeper.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.costManagement.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.InventoryManagement.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.medicineManagement.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.Sale.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.SuplierManagement.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.token.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.user_management.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.viewSale.resources
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.cache
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.compiled
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\New folder\Pharmacy Mgmt System\admin\obj\Debug\admin.application
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.TechSupport.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.config
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.exe
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\bin\Debug\admin.exe.manifest
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\bin\Debug\admin.application
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\bin\Debug\admin.exe
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\bin\Debug\admin.pdb
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddcostCat.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddNewCost.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.AddSuplier.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.TechSupport.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.AddingNew.token_sh.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Form1.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.adminProfile.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\app03.cashier.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Pharmasist.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.medGenReport.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.UserReport.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Sale_ext.token.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Store_keeper.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.costManagement.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.InventoryManagement.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.medicineManagement.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.Sale.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.SuplierManagement.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.token.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.user_management.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.wind.viewSale.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.cache
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\RdlCompile.compiled
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.exe.manifest
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.application
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.InvReport.resources
+C:\Users\Oshan\Documents\Visual Studio 2012\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.Sale_Report.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.InvReport.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System\admin\obj\Debug\admin.Report.Sale_Report.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\bin\Debug\admin.exe.config
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.exe
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\bin\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\bin\Debug\admin.application
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\bin\Debug\admin.exe
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\bin\Debug\admin.pdb
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\Pharmacy Mgmt System.csprojResolveAssemblyReference.cache
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.AddcostCat.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.AddMedicine.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.AddNewCost.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.addNewInventory.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.addNewUser.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.AddSuplier.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.TechSupport.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.AddingNew.token_sh.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Form1.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.adminProfile.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\app03.cashier.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Pharmasist.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Report.InvReport.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Report.medGenReport.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Report.Sale_Report.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Report.UserReport.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Sale_ext.token.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.Store_keeper.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.costManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.InventoryManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.medicineManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.Sale.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.SuplierManagement.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.token.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.uc_Dashboard.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.user_management.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.wind.viewSale.resources
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\Pharmacy Mgmt System.csproj.GenerateResource.Cache
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\RdlCompile.cache
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\RdlCompile.compiled
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.exe.manifest
+C:\Users\Oshan\Desktop\Pharmacy Mgmt System re-structured\admin\obj\Debug\admin.application

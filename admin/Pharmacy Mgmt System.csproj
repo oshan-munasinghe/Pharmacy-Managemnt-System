@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C008CBC-2B18-40F8-98AF-53DABBBC615A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>admin</RootNamespace>
+    <AssemblyName>admin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FEE10B3D5A5CE564A0AFBF58D08F9172B86F306D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Pharmacy Mgmt System_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Downloads\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\Downloads\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddingNew\AddcostCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\AddcostCat.Designer.cs">
+      <DependentUpon>AddcostCat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\AddMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\AddMedicine.Designer.cs">
+      <DependentUpon>AddMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\AddNewCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\AddNewCost.Designer.cs">
+      <DependentUpon>AddNewCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\addNewInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\addNewInventory.Designer.cs">
+      <DependentUpon>addNewInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\addNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\addNewUser.Designer.cs">
+      <DependentUpon>addNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\AddSuplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\AddSuplier.Designer.cs">
+      <DependentUpon>AddSuplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\TechSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\TechSupport.Designer.cs">
+      <DependentUpon>TechSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingNew\token_sh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingNew\token_sh.Designer.cs">
+      <DependentUpon>token_sh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminProfile.Designer.cs">
+      <DependentUpon>adminProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier.Designer.cs">
+      <DependentUpon>cashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MC\mUserManagement.cs" />
+    <Compile Include="Pharmasist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmasist.Designer.cs">
+      <DependentUpon>Pharmasist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\genUserrep.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>genUserrep.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Inventory.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Inventory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\InvReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\InvReport.Designer.cs">
+      <DependentUpon>InvReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\medDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>medDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\medGenReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\medGenReport.Designer.cs">
+      <DependentUpon>medGenReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\salerep.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>salerep.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Sale_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Sale_Report.Designer.cs">
+      <DependentUpon>Sale_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\UserReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\UserReport.Designer.cs">
+      <DependentUpon>UserReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale_ext\token.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sale_ext\token.Designer.cs">
+      <DependentUpon>token.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store_keeper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store_keeper.Designer.cs">
+      <DependentUpon>Store_keeper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\costManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\costManagement.Designer.cs">
+      <DependentUpon>costManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\InventoryManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\InventoryManagement.Designer.cs">
+      <DependentUpon>InventoryManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\medicineManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\medicineManagement.Designer.cs">
+      <DependentUpon>medicineManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\Sale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\Sale.Designer.cs">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\SuplierManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\SuplierManagement.Designer.cs">
+      <DependentUpon>SuplierManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\token.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\token.Designer.cs">
+      <DependentUpon>token.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\uc_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\uc_Dashboard.Designer.cs">
+      <DependentUpon>uc_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\user_management.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\user_management.Designer.cs">
+      <DependentUpon>user_management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind\viewSale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="wind\viewSale.Designer.cs">
+      <DependentUpon>viewSale.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddingNew\AddcostCat.resx">
+      <DependentUpon>AddcostCat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\AddMedicine.resx">
+      <DependentUpon>AddMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\AddNewCost.resx">
+      <DependentUpon>AddNewCost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\addNewInventory.resx">
+      <DependentUpon>addNewInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\addNewUser.resx">
+      <DependentUpon>addNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\AddSuplier.resx">
+      <DependentUpon>AddSuplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\TechSupport.resx">
+      <DependentUpon>TechSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingNew\token_sh.resx">
+      <DependentUpon>token_sh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminProfile.resx">
+      <DependentUpon>adminProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier.resx">
+      <DependentUpon>cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmasist.resx">
+      <DependentUpon>Pharmasist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\inventory.rdlc" />
+    <EmbeddedResource Include="Report\InvReport.resx">
+      <DependentUpon>InvReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\medGenReport.resx">
+      <DependentUpon>medGenReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\medReport.rdlc" />
+    <EmbeddedResource Include="Report\SaleRc.rdlc" />
+    <EmbeddedResource Include="Report\Sale_Report.resx">
+      <DependentUpon>Sale_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\userRep.rdlc" />
+    <EmbeddedResource Include="Report\UserReport.resx">
+      <DependentUpon>UserReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale_ext\token.resx">
+      <DependentUpon>token.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store_keeper.resx">
+      <DependentUpon>Store_keeper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\costManagement.resx">
+      <DependentUpon>costManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\InventoryManagement.resx">
+      <DependentUpon>InventoryManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\medicineManagement.resx">
+      <DependentUpon>medicineManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\Sale.resx">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\SuplierManagement.resx">
+      <DependentUpon>SuplierManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\token.resx">
+      <DependentUpon>token.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\uc_Dashboard.resx">
+      <DependentUpon>uc_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\user_management.resx">
+      <DependentUpon>user_management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wind\viewSale.resx">
+      <DependentUpon>viewSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Pharmacy Mgmt System_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report\genUserrep.xsc">
+      <DependentUpon>genUserrep.xsd</DependentUpon>
+    </None>
+    <None Include="Report\genUserrep.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>genUserrep.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\genUserrep.xss">
+      <DependentUpon>genUserrep.xsd</DependentUpon>
+    </None>
+    <None Include="Report\Inventory.xsc">
+      <DependentUpon>Inventory.xsd</DependentUpon>
+    </None>
+    <None Include="Report\Inventory.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Inventory.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\Inventory.xss">
+      <DependentUpon>Inventory.xsd</DependentUpon>
+    </None>
+    <None Include="Report\medDataset.xsc">
+      <DependentUpon>medDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Report\medDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>medDataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\medDataset.xss">
+      <DependentUpon>medDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Report\salerep.xsc">
+      <DependentUpon>salerep.xsd</DependentUpon>
+    </None>
+    <None Include="Report\salerep.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>salerep.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\salerep.xss">
+      <DependentUpon>salerep.xsd</DependentUpon>
+    </None>
+    <None Include="Src\bill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\sale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\sale 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\sale in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\out_of_stock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\emp 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\cust2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\suplier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\lg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lgn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\lgbt.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
